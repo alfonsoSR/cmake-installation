@@ -11,4 +11,5 @@ make c
 ./main
 ```
 libtudat.a will be added to CMAKE\_INSTALL\_PREFIX/lib
+
 types.hpp will be added to CMAKE\_INSTALL\_PREFIX/include/tudat
