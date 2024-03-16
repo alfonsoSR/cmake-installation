@@ -10,5 +10,5 @@ cd test
 make c
 ./main
 ```
-libtudat.a will be added to ${CMAKE_INSTALL_PREFIX}/lib
-types.hpp will be added to ${CMAKE_INSTALL_PREFIX}/include/tudat
+libtudat.a will be added to \${CMAKE\_INSTALL\_PREFIX}/lib
+types.hpp will be added to \${CMAKE\_INSTALL\_PREFIX}/include/tudat
